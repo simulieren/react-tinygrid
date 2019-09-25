@@ -1,7 +1,7 @@
 {
   "name": "react-tinygrid",
-  "version": "1.0.0",
-  "description": "A tiny grid and column overlay for react projects",
+  "version": "0.1.0",
+  "description": "A tiny column overlay for React",
   "author": "simulieren",
   "license": "MIT",
   "repository": "simulieren/react-tinygrid",

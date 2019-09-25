@@ -1,6 +1,6 @@
 # react-tinygrid
 
-> A tiny grid and column overlay for react projects
+> A tiny column overlay for React
 
 [![NPM](https://img.shields.io/npm/v/react-tinygrid.svg)](https://www.npmjs.com/package/react-tinygrid) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -15,12 +15,12 @@ npm install --save react-tinygrid
 ```tsx
 import * as React from 'react'
 
-import MyComponent from 'react-tinygrid'
+import TinyGrid from 'react-tinygrid'
 
 class Example extends React.Component {
   render () {
     return (
-      <MyComponent />
+      <TinyGrid />
     )
   }
 }
